@@ -1,0 +1,62 @@
+[33mcommit 7802fbe42402ffe6a5395f1f7669de75b4f0c88a[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: 2616fa7 7f61b20
+Author: DanielDoria-GoDigitalmg <daniel.doria@godigitalmg.com>
+Date:   Mon Jan 10 18:41:28 2022 -0300
+
+    Merge branch 'dev'
+
+[33mcommit 7f61b202d676a968d79948a49ea31f0f1229e494[m[33m ([m[1;32mdev[m[33m)[m
+Author: DanielDoria-GoDigitalmg <daniel.doria@godigitalmg.com>
+Date:   Mon Jan 10 18:41:00 2022 -0300
+
+    comm
+
+[33mcommit 2616fa76b17450fca121bbc8af0ebdd699dcab83[m
+Merge: 33a9274 0aabf5e
+Author: DanielDoria-GoDigitalmg <daniel.doria@godigitalmg.com>
+Date:   Mon Jan 10 18:39:22 2022 -0300
+
+    second try
+
+[33mcommit 0aabf5e8d217d78aa8a8c56cd3f7ab57d0b1cb0c[m
+Author: DanielDoria-GoDigitalmg <daniel.doria@godigitalmg.com>
+Date:   Mon Jan 10 18:34:33 2022 -0300
+
+    new changes
+
+[33mcommit 33a9274bce02c1b006addc9e50cc0264378e9602[m
+Author: DanielDoria-GoDigitalmg <daniel.doria@godigitalmg.com>
+Date:   Mon Jan 10 18:17:15 2022 -0300
+
+    nothing
+
+[33mcommit 3f5ed654718bf43c275af414f248284fb231018c[m
+Merge: 6f6f72c 04b7fc1
+Author: DanielDoria-GoDigitalmg <daniel.doria@godigitalmg.com>
+Date:   Mon Jan 10 18:11:18 2022 -0300
+
+    conflicto resuelto por cambio en la misma linea
+
+[33mcommit 6f6f72cb32ff967acb32e5b744fe79d50e8367fd[m
+Author: DanielDoria-GoDigitalmg <daniel.doria@godigitalmg.com>
+Date:   Mon Jan 10 18:00:28 2022 -0300
+
+    1.8. Add ‘file_2’ from the previous step (the ‘dev’ branch) to the ‘master’ branch but without changes in the ‘file_1’
+
+[33mcommit 04b7fc1ec7ec2c2aeac8bb02caf025fe2a512882[m
+Author: DanielDoria-GoDigitalmg <daniel.doria@godigitalmg.com>
+Date:   Mon Jan 10 17:29:48 2022 -0300
+
+    Make changes in the text of the file_1 but do it in the new dev branch and upload it to dev
+
+[33mcommit 83ef57d5e8338bdab9730086eb21a1ebe79cab9c[m
+Author: DanielDoria-GoDigitalmg <daniel.doria@godigitalmg.com>
+Date:   Mon Jan 10 17:20:04 2022 -0300
+
+    new file on the dev branch with file2 as the new in the branch
+
+[33mcommit 8d9cfd875668d2c5b85655b6bfdc60f33c4ba8d7[m
+Author: DanielDoria-GoDigitalmg <daniel.doria@godigitalmg.com>
+Date:   Mon Jan 10 16:40:23 2022 -0300
+
+    commentary
